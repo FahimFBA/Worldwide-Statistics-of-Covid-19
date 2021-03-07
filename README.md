@@ -1,4 +1,9 @@
-# Worldwide-Statistics-of-Covid-19
+# Worldwide Statistics of Covid19
+
+Used language: HTML, Python Django, CSS , others.
+
+Haven't being hosted anywhere yet now in live.
 
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+The data is continuously being updated in real-time obviously.
